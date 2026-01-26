@@ -27,7 +27,7 @@ logger = logging.getLogger(__name__)
 print("🤖 Запускаю бота...")
 
 # Конфигурация из переменных окружения (безопаснее)
-BOT_TOKEN = os.getenv('BOT_TOKEN', "8558575246:AAFki0AsJlh78tF0GInxulbyFRjN4dvKd4k")
+BOT_TOKEN = os.getenv('BOT_TOKEN', "7902687970:AAHEtq6JaH0TQ9s8EDmRJ4Ws9Ob1i4dX-Ig")
 API_ID = int(os.getenv('API_ID', "28012480"))
 API_HASH = os.getenv('API_HASH', "0116bde043fa8483bbd5eb7aabe496f7")
 ADMIN_ID = int(os.getenv('ADMIN_ID', "7930849926"))
